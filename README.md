@@ -1,3 +1,3 @@
 # Primeiro commit
 
-# Eu não acho o Palmeiras o melhor!
+# Palmeiras é o melhor
